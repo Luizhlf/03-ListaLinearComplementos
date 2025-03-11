@@ -138,7 +138,7 @@ void excluirElemento()
 		cout << "Elemento " << numero << " excluido com sucesso." << endl;
 		}
 		else {
-			cout << "Elemento não encontrado.\n";
+			cout << "Elemento nao encontrado.\n";
 		}
 	}
 
